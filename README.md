@@ -9,3 +9,5 @@
 [Assignment 3](https://github.com/rheajaisinghani/BIOS512/blob/main/03_BIOS512_assignment.ipynb)
 
 [Assignment 4](https://github.com/rheajaisinghani/BIOS512/blob/main/04_BIOS512_assignment.ipynb)
+
+[Assignment 4](https://github.com/rheajaisinghani/BIOS512/blob/main/05_BIOS512_assignment.ipynb)
