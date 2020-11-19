@@ -18,4 +18,4 @@
 
 [Assignment 5](https://nbviewer.jupyter.org/github/rheajaisinghani/BIOS512/blob/main/05_BIOS512_assignment.ipynb)
 
-[Assignment 6](https://nbviewer.jupyter.org/github/rheajaisinghani/BIOS512/blob/main/06_BIOS512_finalproject.ipynb)
+[Final Project](https://nbviewer.jupyter.org/github/rheajaisinghani/BIOS512/blob/main/06_BIOS512_finalproject.ipynb)
