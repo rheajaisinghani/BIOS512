@@ -17,3 +17,5 @@
 [Assignment 4](https://github.com/rheajaisinghani/BIOS512/blob/main/04_BIOS512_assignment.ipynb)
 
 [Assignment 5](https://github.com/rheajaisinghani/BIOS512/blob/main/05_BIOS512_assignment.ipynb)
+
+[Assignment 6](https://github.com/rheajaisinghani/BIOS512/blob/main/06_BIOS512_finalproject.ipynb)
